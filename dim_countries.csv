@@ -1,0 +1,20 @@
+country,country_code,region,latitude,longitude,ahf_presence
+South Africa,ZAF,Southern Africa,-30.56,22.94,True
+Zimbabwe,ZWE,Southern Africa,-19.02,29.15,True
+Zambia,ZMB,Southern Africa,-13.13,27.85,True
+Mozambique,MOZ,Southern Africa,-18.67,35.53,True
+Malawi,MWI,Southern Africa,-13.25,34.3,True
+Botswana,BWA,Southern Africa,-22.33,24.68,True
+Eswatini,SWZ,Southern Africa,-26.52,31.47,True
+Lesotho,LSO,Southern Africa,-29.61,28.23,True
+Uganda,UGA,East Africa,1.37,32.29,True
+Kenya,KEN,East Africa,-0.02,37.91,True
+Tanzania,TZA,East Africa,-6.37,34.89,True
+Ethiopia,ETH,East Africa,9.14,40.49,True
+Rwanda,RWA,East Africa,-1.94,29.87,True
+Nigeria,NGA,West Africa,9.08,8.68,True
+Cameroon,CMR,West Africa,3.85,11.5,True
+Côte d'Ivoire,CIV,West Africa,7.54,-5.55,True
+Ghana,GHA,West Africa,7.95,-1.02,True
+DR Congo,COD,Central Africa,-4.04,21.76,True
+Angola,AGO,Central Africa,-11.2,17.87,True
