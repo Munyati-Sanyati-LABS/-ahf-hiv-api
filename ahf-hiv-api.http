@@ -1,0 +1,6 @@
+@ahf_hiv_api_HostAddress = http://localhost:5207
+
+GET {{ahf_hiv_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
